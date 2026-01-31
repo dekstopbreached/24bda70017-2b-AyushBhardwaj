@@ -1,0 +1,25 @@
+# Node
+node_modules/
+.next/
+
+# Env
+.env
+.env.local
+
+# Editor
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# Build
+dist/
+coverage/
+
+# pnpm
+.pnpm-debug.log
+
+# Other
+yarn.lock
+package-lock.json
