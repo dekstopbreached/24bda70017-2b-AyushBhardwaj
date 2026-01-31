@@ -1,0 +1,18 @@
+cd "C:\Users\Ayush\24bda70017-2b-AyushBhardwaj\2b"
+
+# create .gitignore (Node/Next example)
+# put this content into .gitignore:
+# node_modules/
+# .next/
+# .env
+# .env.local
+# .vscode/
+# .DS_Store
+# *.log
+# coverage/
+# dist/
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
